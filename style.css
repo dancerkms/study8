@@ -323,7 +323,7 @@ h1 {
 .footer__title::before {
   content: '';
   position: absolute;
-  background: url('./img/accordeon.svg') no-repeat center;
+  background: url('img/accordeon.svg') no-repeat center;
   display: block;
   top: -2px;
   left: -37px;
